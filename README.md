@@ -242,9 +242,34 @@ Em desenvolvimento contínuo, este repositório poderá abranger:
 - Linhas específicas para microempreendedores
 - Menor burocracia
 - Focado em atividade econômica, não em histórico de crédito
+- Consulte o guia detalhado em [Microcrédito para MEI](./creditos/microcredito-mei.md)
 
 #### 5. Consórcio para Bens
 - Entre em um consórcio para adquirir o celular
 - Pode ser contemplado antes dos 60 dias se for contemplado no início
 
+#### 6. Planos de Celular com Aparelho
+- Contrate um plano que inclua o celular desejado
+- Avalie opções específicas para negativados
+- Consulte o guia detalhado em [Planos de Celular com Aparelho Incluso](./creditos/planos-celular.md)
+
+#### 7. Alianças Estratégicas
+- Parcerias com amigos ou conhecidos para compra conjunta
+- Aproveitamento de promoções para clientes antigos
+- Compra em grupo com descontos
+
 > ⚠️ **Importante**: Empréstimos devem ser considerados com extrema cautela, especialmente com taxas de juros que podem comprometer sua saúde financeira.
+
+---
+
+## Tipos Específicos de Crédito
+
+Para facilitar sua navegação e pesquisa, organizamos informações específicas sobre diferentes tipos de crédito:
+
+- [Microcrédito para MEI](./creditos/microcredito-mei.md) - Linha de crédito específica para microempreendedores individuais
+- [Planos de Celular com Aparelho Incluso](./creditos/planos-celular.md) - Opções de aquisição de celulares para pessoas com restrições financeiras
+- Em breve: Empréstimo com Garantia de Bens
+- Em breve: Cartões de Crédito para Negativados
+- Em breve: Crédito com Garantia de Investimentos
+
+> 🔍 **Dica**: Consulte os arquivos específicos para informações detalhadas sobre cada tipo de crédito, incluindo taxas, prazos, requisitos e instituições oferecedoras.
