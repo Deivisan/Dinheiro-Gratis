@@ -268,6 +268,7 @@ Para facilitar sua navegação e pesquisa, organizamos informações específica
 
 - [Microcrédito para MEI](./creditos/microcredito-mei.md) - Linha de crédito específica para microempreendedores individuais
 - [Planos de Celular com Aparelho Incluso](./creditos/planos-celular.md) - Opções de aquisição de celulares para pessoas com restrições financeiras
+- [Plataformas de Crédito Alternativo](./creditos/plataformas-credito-alternativo.md) - Alternativas de crédito para quem tem nome sujo
 - Em breve: Empréstimo com Garantia de Bens
 - Em breve: Cartões de Crédito para Negativados
 - Em breve: Crédito com Garantia de Investimentos
