@@ -84,12 +84,32 @@ O microcrédito para MEI é uma linha de crédito específica destinada a microe
 - Especializada em desenvolvimento econômico e social
 - Oferece microcrédito com taxas acessíveis
 
-### Outras Instituições que Oferecem Microcrédito MEI:
+### Bancos que Oferecem Empréstimos para MEI (Incluindo Opções sem Consulta SPC/Serasa)
+
+#### Bancos Tradicionais:
 - [**Banco do Brasil**](https://www.bb.com.br/)
 - [**Caixa Econômica Federal**](https://www.caixa.gov.br/)
 - [**Banco do Nordeste**](https://www.bnb.gov.br/)
-- [**Sicredi**](https://www.sicredi.com.br/)
-- [**Sicoob**](https://www.sicoob.com.br/)
+- [**Bradesco**](https://www.bradesco.com.br/)
+- [**Itaú**](https://www.itau.com.br/)
+- [**Santander**](https://www.santander.com.br/)
+
+#### Bancos Especializados em Negativados:
+- [**Banco PAN**](https://www.bancopan.com.br/) - Oferece empréstimos sem consulta SPC/Serasa
+- [**Banco BV (Banco Votorantim)**](https://www.bancobv.com.br/)
+- [**Banco Inter**](https://www.bancointer.com.br/) - Análise baseada em movimentação bancária
+- [**C6 Bank**](https://www.c6bank.com.br/) - Crédito com análise alternativa
+
+#### Cooperativas de Crédito:
+- [**Sicredi**](https://www.sicredi.com.br/) - Mais flexibilidade na análise de crédito
+- [**Sicoob**](https://www.sicoob.com.br/) - Análise mais personalizada
+- [**Credisis**](https://www.credisis.com.br/) - Cooperativa com foco em pequenos empreendimentos
+
+#### Plataformas e Fintechs:
+- [**Serasa Crédito**](https://www.serasa.com.br/credito) - Plataforma com ofertas de instituições que atendem negativados
+- [**Creditas**](https://www.creditas.com/) - Oferece empréstimos com garantia e análise alternativa
+- [**Bcre**](https://www.bcre.com.br/) - Empréstimo com garantia de veículo ou imóvel
+- [**Finamax**](https://www.finamax.com.br/) - Alternativas para quem tem restrições
 
 ## Como Contratar?
 
@@ -198,7 +218,8 @@ O [Pronampe](https://www.gov.br/empresas-e-negocios/pt-br/empreendedorismo/prona
 
 ### Portais e Tutoriais para Solicitar Microcrédito
 
-#### 1. [Gov.br - CRED+](https://www.gov.br/credmais/pt-br)
+#### 1. [Gov.br - Acesso a Crédito](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/solucoes-financeiras-para-o-seu-negocio-credmei)
+- CRED+ (Programa de Simplificação do Acesso a Produtos e Serviços Financeiros para os Pequenos Negócios)
 - Vitrine de crédito com ofertas públicas e privadas
 - Compare ofertas de diferentes instituições financeiras
 - Acesso facilitado a diversas opções de crédito

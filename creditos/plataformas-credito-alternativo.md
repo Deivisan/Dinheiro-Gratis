@@ -30,8 +30,9 @@ As plataformas de crédito alternativo são instituições financeiras ou fintec
 - [**Mercado Pago**](https://www.mercadopago.com.br/): Antecipação automática de recebíveis
 
 ### 4. Marketplaces de Crédito
-- [**CRED+ (gov.br)**](https://www.gov.br/credmais/pt-br): Vitrine de crédito governamental com ofertas de instituições públicas e privadas
+- [**Gov.br - CRED+**](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/solucoes-financeiras-para-o-seu-negocio-credmei): Vitrine de crédito governamental com ofertas de instituições públicas e privadas
 - [**Creditas**](https://www.creditas.com/): Oferece empréstimos com garantia e análise alternativa
+- [**Serasa Crédito**](https://www.serasa.com.br/credito): Plataforma com ofertas de instituições que atendem negativados
 - [**Ailos**](https://www.ailos.coop.br/): Cooperativa de crédito com foco em pequenos empreendimentos
 
 ## Como Funciona a Análise de Crédito Alternativa
@@ -202,9 +203,11 @@ As plataformas de crédito alternativo são instituições financeiras ou fintec
 - [**Consumidor.gov.br**](https://www.consumidor.gov.br/) - Plataforma oficial de resolução de conflitos
 
 ### Comparadores e Ferramentas:
-- [**CRED+**](https://www.gov.br/credmais/pt-br) - Vitrine de crédito do governo
+- [**Gov.br - CRED+**](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/solucoes-financeiras-para-o-seu-negocio-credmei) - Vitrine de crédito do governo
+- [**Serasa Crédito**](https://www.serasa.com.br/credito) - Plataforma com ofertas de instituições que atendem negativados
 - [**Melhor Envio - Comparador de Crédito**](https://www.melhorenvio.com.br/) - Plataforma para comparação de fretes e crédito para e-commerces
 - [**Serasa Score**](https://www.serasa.com.br/) - Consulte seu score de crédito
+- [**Banco Central - Instituições Financeiras**](https://www3.bcb.gov.br/instituicoes/) - Consulte a lista oficial de instituições autorizadas
 
 > ⚠️ **Atenção**: Embora as plataformas de crédito alternativo ofereçam oportunidades para quem tem nome sujo, é importante analisar cuidadosamente as taxas e condições, pois podem ser mais altas do que as de instituições tradicionais.
 

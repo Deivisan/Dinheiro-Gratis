@@ -118,7 +118,15 @@ Sim, pessoas com nome sujo podem contratar planos de celular com aparelho inclus
 ### 4. Compra em Lojas Parceiras
 - Lojas de varejo com convênios com operadoras
 - Análise de crédito própria ou mais flexível
-- Exemplos: [Casas Bahia](https://www.casasbahia.com.br/), [Americanas](https://www.americanas.com.br/), [Magazine Luiza](https://www.magazineluiza.com.br/)
+- Ofertas combinadas de aparelho e plano
+- Exemplos: [Casas Bahia](https://www.casasbahia.com.br/), [Americanas](https://www.americanas.com.br/), [Magazine Luiza](https://www.magazineluiza.com.br/), [Kabum](https://www.kabum.com.br/), [Ponto Frio](https://www.pontofrio.com.br/), [Fast Shop](https://www.fastshop.com.br/)
+
+### 5. Operadoras com Programas Especiais para Negativados
+- **Claro**: Programa "Claro Pós" com opções para negativados
+- **Vivo**: Programa "Pós sem Fiador" - não exige fiador e tem análise de crédito mais flexível
+- **TIM**: Programa "TIM Controle" com opções para quem tem restrições
+- **Oi**: Oferece planos pré-pagos com aparelhos sem análise de crédito
+- [**Algar Telecom**](https://www.algartelecom.com.br/) - opções regionais com análise mais flexível
 
 ## Lojas e Fintechs Alternativas
 
@@ -185,9 +193,23 @@ Sim, pessoas com nome sujo podem contratar planos de celular com aparelho inclus
 ## Links Úteis
 
 ### Comparadores e Portais:
-- [**CRED+ - Vitrine de Crédito**](https://www.gov.br/credmais/pt-br) - Comparador de ofertas de crédito
+- [**Gov.br - CRED+**](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/solucoes-financeiras-para-o-seu-negocio-credmei) - Vitrine de crédito com ofertas de crédito
 - [**Receita Federal - MEI**](https://www8.receita.fazenda.gov.br/SimplesNacional/Aplicacoes/MEI/ConfirmacaoMEI/) - Verifique situação do seu CNPJ
 - [**Portal do Empreendedor**](https://www.gov.br/empreender/pt-br) - Informações sobre MEI
+
+### Smartphones e Compras:
+- [**Smartphones Samsung com boas ofertas**](https://www.samsung.com/br/smartphones/)
+- [**Smartphones Motorola com boas ofertas**](https://www.motorola.com.br/smartphones)
+- [**Smartphones Xiaomi com boas ofertas**](https://www.mi.com/br/)
+- [**Lojas com programas de troca de aparelhos**](https://www.celularhoje.com.br/guia/saiba-quais-sao-os-programas-de-troca-de-smartphones/)
+- [**Compras parceladas sem cartão de crédito**](https://www.nexoos.com.br/)
+
+### Programas e Promoções Especiais:
+- [**Programas de fidelidade das operadoras**](https://www.guiadoscelulares.com.br/programas-fidelidade-operadoras/)
+- [**Claro Pós Negativados**](https://www.claro.com.br/)
+- [**Vivo Pós sem Fiador**](https://www.vivo.com.br/)
+- [**TIM Controle Flex**](https://www.tim.com.br/)
+- [**Oi Livre**](https://www.oi.com.br/)
 
 ### Operadoras e Planos:
 - [**Claro**](https://www.claro.com.br/)
