@@ -15,6 +15,10 @@ Bem-vindo ao repositório **Dinheiro Grátis**, onde exploramos estratégias int
 2. [Cartões de Crédito](#cartões-de-crédito)
 3. [Linhas de Crédito](#linhas-de-crédito)
 4. [Estratégias de Benefícios](#estratégias-de-benefícios)
+5. [Soluções Financeiras para CPF com Restrições e CNPJ Ativo](#soluções-financeiras-para-cpf-com-restrições-e-cnpj-ativo)
+6. [Renda Passiva com CNPJ Ativo e Nome Sujo](#renda-passiva-com-cnpj-ativo-e-nome-sujo)
+7. [Como Conseguir R$ 3.000 em 60 Dias](#como-conseguir-r-3000-em-60-dias)
+8. [Tipos Específicos de Crédito](#tipos-específicos-de-crédito)
 
 ---
 
